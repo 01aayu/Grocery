@@ -1,0 +1,19 @@
+# .gitignore
+
+# Node.js dependencies
+node_modules
+
+# Environment variables
+.env
+
+# Logs
+logs
+*.log
+
+# Build output
+dist
+build
+
+# Sensitive data
+*.key
+*.pem
